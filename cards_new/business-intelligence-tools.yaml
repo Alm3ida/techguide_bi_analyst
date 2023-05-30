@@ -5,41 +5,22 @@ key-objectives:
   - FAZER                      ### Atenção!
 aditional-objectives:
 contents:
-  - type: ARTICLE
-    title: "Business Intelligence em Bibliotecas com Power BI"
-    link: https://franciscofoz.medium.com/business-intelligence-em-bibliotecas-com-power-bi-4065df7b232c
-  - type: YOUTUBE
-    title: "Rafael Piton: O que é BI - Business Intelligence (Guia Definitivo)"
-    link: https://www.youtube.com/watch?v=PoCLfN6sF_8
-  - type: ARTICLE
-    title: "O que é o Microsoft Power BI?"
-    link:  https://medium.com/data-are-lakes/o-que-%C3%A9-o-microsoft-power-bi-f98476ef5c48 
-  - type: YOUTUBE
-    title: "Karine Lago: Introdução ao Power BI"
-    link: https://www.youtube.com/watch?v=lMfh2c7GaWI
+
 alura-contents:
 
   - type: PODCAST
     title: "Power BI e inteligência aplicada -- Hipsters Ponto Tech #339"
     link: https://cursos.alura.com.br/extra/hipsterstech/power-bi-e-inteligencia-aplicada-hipsters-ponto-tech-339-a1959
-
-
-    type: COURSE
+  - type: COURSE
     title: "Power BI: mergulhando na linguagem M"
     link: https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m
-
-
-    type: ARTICLE
+  - type: ARTICLE
     title: "Power BI: desenvolva dimensão calendário com a linguagem M de forma prática"
     link: https://www.alura.com.br/artigos/power-bi-dimensao-calendario-linguagem-m-forma-pratica
-
-
-    type: COURSE
+  - type: COURSE
     title: "Power BI: modelagem de dados"
     link: https://cursos.alura.com.br/course/power-bi-modelagem-dados
-
-
-    type: COURSE
+  - type: COURSE
     title: "Power BI: aplicando DAX ao negócio"
     link: https://cursos.alura.com.br/course/power-bi-aplicando-dax-negocio
 
