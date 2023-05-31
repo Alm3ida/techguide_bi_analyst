@@ -2,12 +2,15 @@ name: Ferramentas de Business Intelligence
 logo: 
 short-description:
 key-objectives:
-  - FAZER                      ### Atenção!
+  - O Guia oferece uma variedade de recursos relacionados ao Power BI, incluindo cursos, artigos e podcasts.
+  - Os cursos abrangem desde uma introdução ao Power BI até tópicos avançados, como mergulho na linguagem M, modelagem de dados e aplicação de DAX ao negócio.
+  - Os artigos fornecem insights e exemplos práticos sobre o desenvolvimento de dimensão calendário com a linguagem M.
+  - Os podcasts abordam temas como inteligência aplicada no Power BI.
+  - Os recursos são adequados para iniciantes que desejam aprender sobre o Power BI e também para usuários avançados em busca de aprimoramento.
+  - O Guia oferece uma oportunidade de aprofundamento no mundo do Power BI, fornecendo conhecimentos abrangentes sobre visualização e análise de dados.
 aditional-objectives:
 contents:
-
 alura-contents:
-
   - type: PODCAST
     title: "Power BI e inteligência aplicada -- Hipsters Ponto Tech #339"
     link: https://cursos.alura.com.br/extra/hipsterstech/power-bi-e-inteligencia-aplicada-hipsters-ponto-tech-339-a1959
@@ -23,4 +26,3 @@ alura-contents:
   - type: COURSE
     title: "Power BI: aplicando DAX ao negócio"
     link: https://cursos.alura.com.br/course/power-bi-aplicando-dax-negocio
-

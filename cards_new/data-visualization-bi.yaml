@@ -1,53 +1,60 @@
-name: Visualização de Dados (BI)
+name: Análise e Visualização de Dados (BI)
 logo: 
 short-description:
 key-objectives:
-  - A visualização de dados é uma expressão contemporânea da comunicação visual que consiste na representação visual de dados.
-  - Mapear dados abstratos em representações visuais
-  - Representar visualmente os dados que estão presentes no nosso mundo real
-  - Usar Python, Matplotlib and Seaborn para gerar visualizações de dados
+  - Esses conteúdos abrangem o campo da análise de dados e visualização de informações, com foco no Power BI, Tableau, Qlik Sense e Google Sheets.
+  - Os vídeos e cursos oferecem introdução ao Power BI, análise de dados da Microsoft, preparação de dados, modelagem de dados, visualização de dados, análise de dados e gerenciamento de workspaces e conjuntos de dados no Power BI.
+  - Os cursos da Alura oferecem formação em Power BI, Data Analysis com Google Sheets, Tableau, Looker Studio e Qlik Sense, fornecendo conhecimentos abrangentes nessas ferramentas.
+  - Os artigos fornecem informações sobre o que é Qlik, Tableau, Power BI e Looker Studio, bem como seus produtos e funcionalidades.
+  - Esses conteúdos são úteis para profissionais que desejam aprimorar suas habilidades em análise de dados, visualização de informações e utilização de ferramentas como Power BI, Tableau, Qlik Sense e Google Sheets.
 aditional-objectives:
 contents:
-  - type: ARTICLE
-    title: "Princípios básicos da Visualização de Dados"
-    link: https://medium.com/datavizbr/princ%C3%ADpios-b%C3%A1sicos-da-visualiza%C3%A7%C3%A3o-de-dados-5ebc7150fc81
-  - type: ARTICLE
-    title: "3 dicas para criar uma Visualização de Dados de sucesso"
-    link: https://medium.com/datavizbr/3-dicas-para-criar-uma-visualiza%C3%A7%C3%A3o-de-dados-de-sucesso-dica-0-n%C3%A3o-comece-pela-visualiza%C3%A7%C3%A3o-73154f5e56f3
   - type: YOUTUBE
-    title: "Luiz Ludwig: O que é visualização dos dados?"
-    link: https://www.youtube.com/watch?v=TgLIgmE13rI
-  - type: YOUTUBE
-    title: "Canal FLAI: 6 Dicas de Visualização de Dados"
-    link: https://www.youtube.com/watch?v=gtkrwzt5NJ0
+    title: "Karine Lago: Introdução ao Power BI"
+    link: https://www.youtube.com/watch?v=lMfh2c7GaWI 
+  - type: COURSE
+    title: "Introdução à análise de dados da Microsoft"
+    link: https://learn.microsoft.com/pt-br/training/paths/data-analytics-microsoft/?ns-enrollment-type=Collection&ns-enrollment-id=djwu3eywpk4nm 
+  - type: COURSE
+    title: "Preparar dados para análise"
+    link: https://learn.microsoft.com/pt-br/training/paths/prepare-data-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=djwu3eywpk4nm
+  - type: COURSE
+    title: "Modelar dados no Power BI"
+    link: https://learn.microsoft.com/pt-br/training/paths/model-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=djwu3eywpk4nm
+  - type: COURSE
+    title: "Visualizar dados no Power BI"
+    link: https://learn.microsoft.com/pt-br/training/paths/visualize-data-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=djwu3eywpk4nm
+  - type: COURSE
+    title: "Análise de dados no Power BI"
+    link: https://learn.microsoft.com/pt-br/training/paths/perform-analytics-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=djwu3eywpk4nm
+  - type: COURSE
+    title: "Gerenciar workspaces e conjuntos de dados no Power BI"
+    link: https://learn.microsoft.com/pt-br/training/paths/manage-workspaces-datasets-power-bi/?ns-enrollment-type=Collection&ns-enrollment-id=djwu3eywpk4nm 
 alura-contents:
+  - type: COURSE
+    title: "Formação Power BI"
+    link: https://cursos.alura.com.br/formacao-power-bi 
+  - type: COURSE
+    title: “Formação Data Analysis com Google Sheets”
+    link: https://cursos.alura.com.br/formacao-data-analysis-google-sheets 
+  - type: COURSE
+    title: "Formação Tableau"
+    link: https://cursos.alura.com.br/formacao-tableau 
+  - type: COURSE
+    title: "Formação Looker Studio"
+    link: https://cursos.alura.com.br/formacao-google-looker-studio 
+  - type: COURSE
+    title: "Formação Qlik Sense"
+    link: https://cursos.alura.com.br/formacao-qlik-sense 
   - type: ARTICLE
-    title: "Visualizando informações com um gráfico"
-    link: https://www.alura.com.br/artigos/visualizando-informacoes-com-um-grafico
+    title: "Qlik: O que é, quais seus Produtos e Licenças?"
+    link: https://www.alura.com.br/artigos/qlik-o-que-e 
   - type: ARTICLE
-    title: "Análise de dados: analisando minha distribuição com três alternativas de visualização"
-    link: https://www.alura.com.br/artigos/analise-de-dados-analisando-minha-distribuicao-com-tres-alternativas-de-visualizacao
+    title: "O que é Tableau, quais seus produtos e Como Funciona?"
+    link: https://www.alura.com.br/artigos/o-que-e-tableau 
   - type: ARTICLE
-    title: "Visualizando dados de frequência"
-    link: https://www.alura.com.br/artigos/visualizando-dados-de-frequencia
-  - type: COURSE
-    title: "Curso Data Science: análise e visualização de dados"
-    link: https://cursos.alura.com.br/course/data-science-primeiros-passos
-  - type: COURSE
-    title: "Curso Data Visualization: técnicas de visualização com Google Sheets"
-    link: https://www.alura.com.br/curso-online-data-visualization-visualizacao-google-sheets
-  - type: COURSE
-    title: "Curso Data Visualization parte 1: gráficos com uma variável"
-    link: https://cursos.alura.com.br/course/data-visualization-graficos
-  - type: COURSE
-    title: "Curso Data Visualization parte 2: gráficos com multivariáveis"
-    link: https://cursos.alura.com.br/course/data-visualization-multivariaveis
-  - type: COURSE
-    title: "Curso Data Visualization: explorando com Seaborn"
-    link: https://cursos.alura.com.br/course/data-visualization-com-seaborn
-  - type: COURSE
-    title: "Curso Data Visualization: criação de gráficos com o Matplotlib"
-    link: https://cursos.alura.com.br/course/customizacao-matplot
-  - type: COURSE
-    title: "Curso Oracle Analytics: visualizando dados"
-    link: https://cursos.alura.com.br/course/oracle-analytics-visualizando-dados
+    title: "O que é Power BI? Para que serve e um Guia para iniciar"
+    link: https://www.alura.com.br/artigos/power-bi 
+  - type: ARTICLE
+    title: "Looker Studio: o que é?"
+    link: https://www.alura.com.br/artigos/looker-studio-o-que-e 
