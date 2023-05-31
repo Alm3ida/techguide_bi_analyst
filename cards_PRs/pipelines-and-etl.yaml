@@ -5,28 +5,31 @@ key-objectives:
   - Pipelines e ETL (Extract, Transform, Load) são conceitos essenciais no campo da Engenharia de Dados, desempenhando um papel fundamental na coleta, transformação e integração de dados. Compreender os fundamentos dessas áreas é essencial para aqueles que desejam trabalhar com a gestão e o processamento eficiente de grandes volumes de informações. 
 aditional-objectives:
 contents:
-  - type: SITE
-    title: "AWS: O que é um pipeline de dados?"
-    link: https://aws.amazon.com/pt/what-is/data-pipeline/ 
   - type: ARTICLE
-    title: "Glossário de dados: O que é Data Pipeline?"
-    link: https://medium.com/datalakers-blog/gloss%C3%A1rio-de-dados-o-que-%C3%A9-data-pipeline-628e509e9cb5 
+    title: "ETL (extração, transformação e carregamento)"
+    link: https://learn.microsoft.com/pt-br/azure/architecture/data-guide/relational-data/etl 
   - type: ARTICLE
-    title: "Pipeline de Dados"
-    link: https://www.linkedin.com/pulse/pipeline-de-dados-jose-r-f-junior/?originalSubdomain=pt 
-  - type: YOUTUBE
-    title: "ETL vs ELT - Pipeline De Dados"
-    link: https://www.youtube.com/watch?v=q6SBawoBU2A 
+    title: "ETL vs ELT: What's the Difference?"
+    link: https://towardsdatascience.com/etl-vs-elt-68e221d78719 
   - type: ARTICLE
-    title: "Sete princípios para pipelines de dados confiáveis"
-    link: https://medium.com/data-hackers/sete-princ%C3%ADpios-para-pipelines-de-dados-confi%C3%A1veis-de59d3c72cfc 
-  - type: YOUTUBE
-    title: "Supletivo DH - Apache NiFi"
-    link: https://www.youtube.com/watch?v=IVRG4ks83s0 
+    title: "Primeiros passos com o Apache Airflow: ETL fácil, robusto e de baixo custo"
+    link: https://medium.com/data-hackers/primeiros-passos-com-o-apache-airflow-etl-f%C3%A1cil-robusto-e-de-baixo-custo-f80db989edae 
+  - type: ARTICLE
+    title: "Pentaho Data Integration"
+    link: https://medium.com/soma-labs/pentaho-data-integration-a7b754fae960 
 alura-contents:
   - type: COURSE
-    title: "Curso Apache Beam: Data Pipeline com Python"
-    link: https://cursos.alura.com.br/course/apache-beam-data-pipeline-python 
+    title: "Formação BI e Data Warehouse com Pentaho"
+    link: https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse-pentaho 
   - type: COURSE
-    title: "Curso Engenharia de Dados: organizando dados na AWS"
-    link: https://cursos.alura.com.br/course/engenharia-dados-organizando-dados-aws 
+    title: "Formação Apache Airflow"
+    link: https://cursos.alura.com.br/formacao-apache-airflow 
+  - type: COURSE
+    title: "Formação BI e Data Warehouse com SQL Server e Power BI"
+    link: https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse 
+  - type: COURSE
+    title: "Formação Iniciando com Engenharia de Dados"
+    link: https://cursos.alura.com.br/formacao-iniciando-engenharia-dados  
+  - type: COURSE
+    title: "Formação Azure"
+    link: https://cursos.alura.com.br/formacao-conhecendo-azure 
