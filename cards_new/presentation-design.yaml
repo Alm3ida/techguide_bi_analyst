@@ -1,35 +1,53 @@
-name: Storytelling com dados
+name: Design de apresentações
 logo: 
 short-description:
 key-objectives:
-  - Storytelling é uma forma de contar histórias que engajam e chamam a atenção da pessoa que está ouvindo. Dentro da análise de dados, é algo muito importante para passar as informações ao receptor de modo que o mesmo compreenda não apenas os dados, mas também todo o contexto.
+  - Aprenda sobre design de interfaces, criação de layouts, paletas de cores em ferramentas como Figma, PowerPoint e Canva.
+  - Os artigos fornecem informações e orientações sobre criação de interfaces, paletas de cores e tipografia.
+  - Os cursos oferecem instruções práticas sobre o uso de ferramentas como Figma, Canva e PowerPoint para criar layouts, projetar sites responsivos, editar imagens, criar apresentações e utilizar componentes da interface.
+  - Explore técnicas de Design Thinking.
 aditional-objectives:
 contents:
   - type: ARTICLE
-    title: "Como contar histórias com gráficos — Resumo do livro Storytelling com Dados"
-    link: https://medium.com/resumos-resenhas/storytelling-com-dados-resumo-fd63ebe4f704
-  - type: YOUTUBE
-    title: "Descomplica Estatistica: Storytelling com dados Parte I - A importância de entender o contexto"
-    link: https://www.youtube.com/watch?v=gEsWb4_pcA0
-  - type: YOUTUBE
-    title: "Descomplica Estatistica: Storytelling com dados Parte II - A escolha de um visual eficaz"
-    link: https://www.youtube.com/watch?v=ApXbhBbZsp4
-  - type: YOUTUBE
-    title: "Descomplica Estatistica: Storytelling com dados Parte III - A saturação é sua inimiga !!"
-    link: https://www.youtube.com/watch?v=_yN8SacwKlw
-  - type: YOUTUBE
-    title: "Descomplica Estatistica: Storytelling com dados Parte IV (Final) - Focalize a atenção do seu público e conte uma história"
-    link: https://www.youtube.com/watch?v=crkoUp8HA6c
-  - type: YOUTUBE
-    title: "Aprendendo na Prática: [Storytelling com dados] Transforme a Forma Como Você Mostra Seus Dados"
-    link: https://www.youtube.com/watch?v=8iZk1f8KA8s
+    title: “Um guia básico para criar uma interface antes de abrir o Figma”
+    link: https://brasil.uxdesign.cc/um-guia-b%C3%A1sico-para-criar-uma-interface-antes-de-abrir-o-figma-87d1c651c91f 
 alura-contents:
-  - type: ARTICLE
-    title: "Destaque-se com storytelling"
-    link: https://www.alura.com.br/artigos/destaque-se-com-storytelling
-  - type: ARTICLE
-    title: "Storytelling: técnicas para uma comunicação eficaz e envolvente"
-    link: https://www.alura.com.br/artigos/storytelling-para-comunicacao
   - type: COURSE
-    title: "Curso Storytelling: visão de negócios e desenvolvimento pessoal"
-    link: https://cursos.alura.com.br/course/storytelling-negocios-desenvolvimento-pessoal
+    title: "Figma: construindo o layout do seu site mobile"
+    link: https://cursos.alura.com.br/course/figma-construindo-layout-primeiro-site-mobile 
+  - type: COURSE
+    title: "Figma: conhecendo componentes da interface"
+    link: https://cursos.alura.com.br/course/figma-conhecendo-componentes-interface
+  - type: CURSO
+    title: "Figma: projete sites para diversas telas"
+    link: https://cursos.alura.com.br/course/figma-projete-sites-diversas-telas 
+  - type: ARTICLE
+    title: "Crie uma paleta de cores incrível para o seu site | Alura"
+    link: https://www.alura.com.br/artigos/crie-paleta-cores-incrivel-seu-site 
+  - type: CURSO
+    title: "Design de apresentações: trabalhando com o Power Point"
+    link: https://cursos.alura.com.br/course/apresentacao-power-point
+  - type: CURSO
+    title: "Comunicação corporativa: usando PowerPoint de forma efetiva"
+    link: https://cursos.alura.com.br/course/comunicacao-corporativa-powerpoint
+  - type: PODCAST
+    title: "A plataforma CANVA -- Layers ponto tech #72"
+    link: https://cursos.alura.com.br/extra/layerstech/a-plataforma-canva-layers-ponto-tech-72-a1462 
+  - type: PODCAST
+    title: "Design Thinking -- Layers ponto tech #43"
+    link: https://www.layerspontotech.com.br/2021/08/30/design-thinking-layers-ponto-tech-43/ 
+  - type: CURSO
+    title: "Canva: viabilizando soluções para artes no Instagram e Twitter"
+    link: https://cursos.alura.com.br/course/canva-solucoes-artes-instagram-twitter 
+  - type: CURSO
+    title: "Canva: criando o material gráfico para um podcast"
+    link: https://cursos.alura.com.br/course/introducao-canva-criando-material-grafico-podcast 
+  - type: ARTICLE
+    title: "10 tipografias gratuitas para um design incrível | Alura"
+    link: https://www.alura.com.br/artigos/10-tipografias-gratuitas-design-incrivel  
+  - type: CURSO
+    title: "Canva: editando imagens"
+    link: https://cursos.alura.com.br/course/canva-editando-imagens 
+  - type: CURSO
+    title: "Canva: criando apresentações"
+    link: https://cursos.alura.com.br/course/canva-criando-apresentacoes 
