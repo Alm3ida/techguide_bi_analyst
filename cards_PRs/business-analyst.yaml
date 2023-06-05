@@ -1,0 +1,23 @@
+name: Analista de negócios
+logo: 
+short-description:
+key-objectives:
+  - O Guia oferece uma variedade de recursos relacionados à gestão da inovação, marketing analytics e ferramentas e indicadores do e-commerce.
+  - A formação em Gestão da Inovação abrange cursos que abordam os fundamentos e práticas da gestão da inovação, incluindo design thinking, lean startup e desenvolvimento ágil de produtos.
+  - A formação em Marketing Analytics proporciona conhecimentos e habilidades para análise de dados voltada para o marketing, abrangendo temas como análise de dados, métricas de desempenho e estratégias de marketing baseadas em dados.
+  - A formação em Ferramentas e Indicadores do E-commerce concentra-se em capacitar profissionais com as ferramentas e indicadores necessários para uma gestão eficiente de negócios de comércio eletrônico.
+aditional-objectives:
+contents:
+  - type: ARTICLE
+    title: “Você sabe qual o papel do BA (Business Analyst) numa equipe de dados?”
+    link: https://medium.com/data-hackers/voc%C3%AA-sabe-qual-o-papel-do-ba-business-analyst-numa-equipe-de-dados-1024da64075f
+alura-contents:
+ - type: COURSE
+    title: "Formação Gestão da Inovação"
+    link: https://cursos.alura.com.br/formacao-gestao-inovacao 
+  - type: COURSE
+    title: "Formação Marketing Analytics"
+    link: https://cursos.alura.com.br/formacao-marketing-analytics 
+  - type: COURSE
+    title: "Formação Ferramentas e Indicadores do E-commerce"
+    link: https://cursos.alura.com.br/formacao-ferramentas-indicadores-e-commerce  
