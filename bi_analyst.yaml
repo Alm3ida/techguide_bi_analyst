@@ -1,5 +1,5 @@
-name: Business Intelligence # Conferir com o @Dani
-tags: 
+name: Business Intelligence
+tags:
   - data
 expertise:
   - name: BI Analyst Jr
@@ -14,60 +14,52 @@ expertise:
         priority: 10
       - storytelling-with-data:
         priority: 9
-      - communication-skills:
-        priority: 10
-  
+
   - name: BI Analyst Mid
     cards:
       - presentation-design:
         priority: 8
       - data-modeling:
         priority: 8
-      - ETL: ##### !!! Esse ETL aqui talvez vire um ETL for BI
+      - pipelines-and-etl:
         priority: 9
-      - business-intelligence-tools: ### Verificar esse nome
+      - business-intelligence-tools:
         priority: 10
-      - python-for-data-science: 
+      - python-for-data-science:
         priority: 7
 
   - name: BI Analyst in depth
     cards:
-        - sql-advanced:
-          priority: 8
-        - cloud-fundamentals:
-          priority: 7
-        - data-warehouses:
-          priority: 10
-        - big-data-fundamentals:
-          priority: 10
-        - distributed-data-processing:
-          priority: 10
+      - sql-advanced:
+        priority: 8
+      - cloud-fundamentals:
+        priority: 7
+      - data-warehouses:
+        priority: 10
+      - big-data-fundamentals:
+        priority: 10
+      - distributed-data-processing:
+        priority: 10
 
-collaboration: ## Adição de conteúdos nessa aba
-  - name: Estrutura, Dados e software ### Verificar esse título
+collaboration:
+  - name: Comunicação, Negócios e Colaboração
     cards:
-        - data-engineering-fundamentals:
-          priority: 10
-        - git-and-github-fundamentals:
-          priority: 9
-
-    ### Engenharia de Dados...........
-      # - api_building:
-      #   priority: 9
-      # - http-fundamentals:
-      #   priority: 9
-      # - software_testing:
-      #   priority: 8
-      # - design-patterns:
-      #   priority: 6
-      # - data-structures:
-      #   priority: 8
-    
-  - name: Estatística e Machine Learning
-    cards:
-      - data-extraction-and-processing:
+      - communication-skills:
+        priority: 10
+      - technical-english:
+        priority: 10
+      - business-analysis:
+        priority: 10
+      - git-and-github-fundamentals:
         priority: 9
-      - machine-learning-fundamentals:
+
+  - name: Estatística e Engenharia de Dados
+    cards:
+      - data-engineering-fundamentals:
+        priority: 9
+      - nosql-databases:
         priority: 7
       - statistics-and-math-fundamentals:
         priority: 7
+      - r-for-data-science:
+        priority: 6
